@@ -1,0 +1,2 @@
+# MyIntellijTheme
+Cutomized intellij theme
